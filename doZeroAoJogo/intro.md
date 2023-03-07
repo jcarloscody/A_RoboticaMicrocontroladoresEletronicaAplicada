@@ -42,4 +42,10 @@ fritzing.org
 
 
 - LEI DE OHM
-- 
+
+
+- LADOS
+  - parte digital
+    - porta 0 e 1 -> sao feitas para transmissao e recepcao de dados
+    - porta 2 -> 
+  - parte analogico
